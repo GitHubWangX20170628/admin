@@ -1,0 +1,5 @@
+projectKey=com.ibeetl:admin
+serverUrl=http://192.168.0.23:9090/sonarqube
+dashboardUrl=http://192.168.0.23:9090/sonarqube/dashboard/index/com.ibeetl:admin
+ceTaskId=AWmYYpSvk8r5RhXokyd_
+ceTaskUrl=http://192.168.0.23:9090/sonarqube/api/ce/task?id=AWmYYpSvk8r5RhXokyd_
